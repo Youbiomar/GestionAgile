@@ -1,16 +1,4 @@
-h1
-{
-    color : black
-}
-h2
-{
-    color : navajowhite
-}
-p
-{
-    font-size: x-small;
-}
-
-span{
-    color: blueviolet
+h1{
+    text-align:center
+    ;
 }
